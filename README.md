@@ -46,4 +46,3 @@ The goal is to enhance a React-based application by integrating Jitsi Meet for v
 - [ ] **Components Upgrading**: Upgrading to jitsi-sdk instead of the demo version
 - [ ] **Jitsi Mic x Web Recorder**: Removing the independency 
 
-This report encapsulates the primary achievements and outlines the framework of the application, setting a solid foundation for further enhancements and refinements.
