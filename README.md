@@ -1,4 +1,4 @@
-# Integrating real-time audio transcription into a React application with Jitsi Meet and a custom audio recording/transcription feature using the Whisper model:
+# REAL-TIME AUDIO TRANSCRIPTION WITH OPENAI'S WHISPER DURING A VIDEO CONFERENCE 
 
 ### Getting Started with Create React App
 
